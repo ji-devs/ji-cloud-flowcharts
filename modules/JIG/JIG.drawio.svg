@@ -1,0 +1,32 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="261px" height="51px" viewBox="-0.5 -0.5 261 51" content="&lt;mxfile host=&quot;479b48b1-8e37-4c3f-b54a-b12c40cdef62&quot; modified=&quot;2021-01-21T09:36:23.630Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; etag=&quot;VrFGME3DPnumzOCKu5qM&quot; version=&quot;13.10.0&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;ApTaKbSw1vR8ufAlLBJp&quot; name=&quot;Page-1&quot;&gt;jZPJboMwEEC/hmMlMM1yDTRNW6mnHHq28ASsGoYaE6Bf33FstkaVeknGb/aFIE7L/qR5XbyjABWwUPRB/BQwtosf6deCwYHNbuNArqVwKJrBWX6Dh6GnrRTQrAwNojKyXsMMqwoys2Jca+zWZhdU66w1z+EOnDOu7umHFKZwdL8JZ/4CMi/GzFHoNSUfjT1oCi6wW6D4GMSpRjROKvsUlJ3dOBfn9/yHdipMQ2X+48Ccw5Wr1vcWsK0i1+SCFIEKNIPvevvV4qh4aG47OZBBtK/7WUlSbv+TVtJMWfj2ehoDUhEuprPw/U/hmYHe8sKUikBEYmM0fkKKCjWRCiuw6aVSvxBXMq/omVHTQDy5gjaS1nXwilIKYdMkXSENnGue2Zwd3SYxjW0lwM4jnMpaDtDP1MaEfoH8QE+AJRg9kInXjrsd1s9uvhS29axYXMl4PdwfZz4FnvdHgl/h+JxP5aZbfG/x8Qc=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="260" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 25px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 18px">
+                                    Build JIG
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="130" y="29" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Build JIG
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
