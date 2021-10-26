@@ -1,0 +1,828 @@
+{
+"album_embed_code": "<iframe  width='640' height='480' src='https://jitap.net/media/webplayer/webplayer.html?structureJson=https://jitap.net/store/api/album/17746/structure&v=3.4.5&emded=true' webkitallowfullscreen='' mozallowfullscreen='' allowfullscreen='' style='border:0'></iframe>",
+"album_play_link": "https://jitap.net/activities/gen8/play/say-something-options",
+"album_share_image": "https://d24o39yp3ttic8.cloudfront.net/70F7C546-8750-4346-ABF7-F02BE95C617C/shareImage.png",
+"album_store": {
+"album": {
+"fields": {
+"age_group": 14,
+"age_group_text": "3-6",
+"author": {
+"bio": "I am an instructional designer and have been writing and producing Jewish Interactive's products since the establishment of Ji. I have a Masters degree in Computers in Education from Tel Aviv U and a B.Sc in Computer Science from Wits University, South Africa.",
+"certified": true,
+"cover_photo": "https://d24o39yp3ttic8.cloudfront.net/C02A5AD9-6CB9-456E-8C1C-E809DC90E99F/unzipped%2Fphoto1%2Fphoto1phone.jpg",
+"first_name": "Ji Team Corinne",
+"gender": null,
+"is_staff": true,
+"last_name": "Ossendryver",
+"picture": "https://s3.amazonaws.com/jitap/profile_pictures/corinne-ossendryver1.jpg?mod=2021-10-22",
+"plays_count": 257408,
+"prefered_age_group": 0,
+"prefered_language": 0,
+"rank": 3,
+"user_pk": 230,
+"user_type": "Someone else",
+"user_type_id": 6,
+"username": "corinne-ossendryver1"
+},
+"categories": [
+3
+],
+"category": 3,
+"cover_color": "92ca5e",
+"cover_image": "https://d24o39yp3ttic8.cloudfront.net/70F7C546-8750-4346-ABF7-F02BE95C617C/coverImage.png?ver=0",
+"cover_type": 7,
+"description": "Legacy player say something with Houdini options",
+"hash": "gen8",
+"language": 1,
+"language_abbrivation": "EN",
+"language_locale": "US",
+"link": "https://jitap.net/activities/gen8/say-something-options",
+"modelName": "Album",
+"name": "Say Something Options",
+"origin_id": "2C14EA92-E6D4-4509-9E64-F946BFF43D55",
+"pk": 17746,
+"player_version": 4.2,
+"pub_date": "2021-10-22 12:59:46",
+"share_image": "https://d24o39yp3ttic8.cloudfront.net/70F7C546-8750-4346-ABF7-F02BE95C617C/shareImage.png?ver=0",
+"slug": "say-something-options",
+"status": 0,
+"unique_id": "70F7C546-8750-4346-ABF7-F02BE95C617C",
+"version": 0
+},
+"model": "store.album",
+"pk": 17746
+},
+"apple_product_id": "70F7C546-8750-4346-ABF7-F02BE95C617C",
+"editable": true,
+"id": 17718,
+"is_free": true,
+"likes_count": 0,
+"modelName": "AlbumStore",
+"pk": 17718,
+"play_count": 0,
+"price": 0,
+"private_hash": null,
+"public": false,
+"rank": 2,
+"show_fullscreen_ads": false,
+"show_in_game_ads": false
+},
+"base_url": "https://d24o39yp3ttic8.cloudfront.net/70F7C546-8750-4346-ABF7-F02BE95C617C/unzipped/",
+"plist_url": "https://d24o39yp3ttic8.cloudfront.net/70F7C546-8750-4346-ABF7-F02BE95C617C/unzipped/albumModal.plist",
+"structure": {
+"musicFile": "MediaResources/music/Silence.m4a",
+"pk": 43827,
+"settings": {},
+"shuffleType": 0,
+"slides": [
+{
+"activities": [
+{
+"filePathIntroRecording": "photo1/activity0/activity0.mp3",
+"folderPath": "photo1/activity0",
+"pk": 607490,
+"recordingDuration": 0,
+"settings": {
+"advance": false
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo1/",
+"filePathImage": "photo1/photo1.jpg",
+"filePathImageThumb": "photo1/photoThumb1.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "2_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveToggleShow": false,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "3_txt.png",
+"frame": "{{0, 0}, {768, 126}}",
+"height": 126,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\">Not continue.</span></p>\n<p class=\"p1\"><span class=\"s1\">No jump to.</span></p>\n<p class=\"p1\"><span class=\"s1\">Silent Animation with no settings</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+0.9999999999999999,
+0,
+0,
+0.9999999999999999,
+72.24999999999972,
+-302.4999999999999
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 1</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-388,
+184
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837434
+},
+{
+"activities": [
+{
+"filePathIntroRecording": "photo2/activity0/activity0.mp3",
+"folderPath": "photo2/activity0",
+"pk": 607493,
+"recordingDuration": 0,
+"settings": {
+"BGRecording": "",
+"DisableHints": false,
+"ShapePuzzleTheme": 0,
+"advance": true,
+"showShape": false,
+"soundFlatMode": false,
+"soundFunMode": false,
+"soundHideHints": false,
+"soundShowToolTip": true,
+"videoRange": "{0, 0}",
+"videoThumbURL": "",
+"videoTitle": "",
+"videoURL": ""
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo2/",
+"filePathImage": "photo2/photo2.jpg",
+"filePathImageThumb": "photo2/photoThumb2.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "2_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveToggleShow": false,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "3_txt.png",
+"frame": "{{0, 0}, {768, 126}}",
+"height": 126,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>continue after voice plays.</span></p>\n<p class=\"p1\"><span class=\"s1\">No jump to.</span></p>\n<p class=\"p1\"><span class=\"s1\">Silent Animation with no settings</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 2</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-374,
+200
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837437
+},
+{
+"activities": [
+{
+"filePathIntroRecording": "photo3/activity0/activity0.mp3",
+"folderPath": "photo3/activity0",
+"pk": 607487,
+"recordingDuration": 0,
+"settings": {
+"BGRecording": "",
+"DisableHints": false,
+"ShapePuzzleTheme": 0,
+"advance": true,
+"linkToPage": 1,
+"showShape": false,
+"soundFlatMode": false,
+"soundFunMode": false,
+"soundHideHints": false,
+"soundShowToolTip": true,
+"videoRange": "{0, 0}",
+"videoThumbURL": "",
+"videoTitle": "",
+"videoURL": ""
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo3/",
+"filePathImage": "photo3/photo3.jpg",
+"filePathImageThumb": "photo3/photoThumb3.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "2_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveToggleShow": false,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "3_txt.png",
+"frame": "{{0, 0}, {768, 126}}",
+"height": 126,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>continue after voice plays.</span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>jump to page 2.</span></p>\n<p class=\"p1\"><span class=\"s1\">Silent Animation with no settings</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 3</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-364,
+202
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837431
+},
+{
+"activities": [
+{
+"filePathIntroRecording": "photo4/activity0/activity0.mp3",
+"folderPath": "photo4/activity0",
+"pk": 607488,
+"recordingDuration": 0,
+"settings": {
+"BGRecording": "",
+"DisableHints": false,
+"ShapePuzzleTheme": 0,
+"advance": true,
+"linkToPage": 1,
+"showShape": false,
+"soundFlatMode": false,
+"soundFunMode": false,
+"soundHideHints": false,
+"soundShowToolTip": true,
+"videoRange": "{0, 0}",
+"videoThumbURL": "",
+"videoTitle": "",
+"videoURL": ""
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo4/",
+"filePathImage": "photo4/photo4.jpg",
+"filePathImageThumb": "photo4/photoThumb4.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "2_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveLayerSound": "audio_01B95B20-40F8-45C3-8678-0C14CDDF3D08.aac",
+"interactiveToggleShow": false,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "3_txt.png",
+"frame": "{{0, 0}, {768, 126}}",
+"height": 126,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>continue after voice plays.</span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>jump to page 2.</span></p>\n<p class=\"p1\"><span class=\"s1\">Talking Animation with no settings</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 4</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-395.5,
+193
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837432
+},
+{
+"activities": [
+{
+"filePathIntroRecording": "photo5/activity0/activity0.mp3",
+"folderPath": "photo5/activity0",
+"pk": 607491,
+"recordingDuration": 0,
+"settings": {
+"BGRecording": "",
+"DisableHints": false,
+"ShapePuzzleTheme": 0,
+"advance": true,
+"linkToPage": 1,
+"showShape": false,
+"soundFlatMode": false,
+"soundFunMode": false,
+"soundHideHints": false,
+"soundShowToolTip": true,
+"videoRange": "{0, 0}",
+"videoThumbURL": "",
+"videoTitle": "",
+"videoURL": ""
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo5/",
+"filePathImage": "photo5/photo5.jpg",
+"filePathImageThumb": "photo5/photoThumb5.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 1,
+"filename": "2_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveLayerSound": "audio_01B95B20-40F8-45C3-8678-0C14CDDF3D08.aac",
+"interactiveToggleShow": true,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "3_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 5</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-377.5,
+204
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 180}}",
+"height": 180,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>continue after voice plays.</span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>jump to page 2.</span></p>\n<p class=\"p1\"><span class=\"s1\">Talking Animation with settings</span></p>\n<p class=\"p1\"><span class=\"s1\">Hide on tap on</span></p>\n<p class=\"p1\"><span class=\"s1\">Toggle on tap on</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837435
+},
+{
+"activities": [
+{
+"filePathIntroRecording": "photo6/activity0/activity0.mp3",
+"folderPath": "photo6/activity0",
+"pk": 607489,
+"recordingDuration": 0,
+"settings": {
+"BGRecording": "",
+"DisableHints": false,
+"ShapePuzzleTheme": 0,
+"advance": true,
+"linkToPage": 1,
+"showShape": false,
+"soundFlatMode": false,
+"soundFunMode": false,
+"soundHideHints": false,
+"soundShowToolTip": true,
+"videoRange": "{0, 0}",
+"videoThumbURL": "",
+"videoTitle": "",
+"videoURL": ""
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo6/",
+"filePathImage": "photo6/photo6.jpg",
+"filePathImageThumb": "photo6/photoThumb6.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "2_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 6</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-399.5,
+191.5
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 2,
+"filename": "3_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveLayerSound": "audio_01B95B20-40F8-45C3-8678-0C14CDDF3D08.aac",
+"interactiveToggleShow": false,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 180}}",
+"height": 180,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>continue after voice plays.</span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>jump to page 2.</span></p>\n<p class=\"p1\"><span class=\"s1\">Talking Animation with settings</span></p>\n<p class=\"p1\"><span class=\"s1\">Show on tap on</span></p>\n<p class=\"p1\"><span class=\"s1\">Toggle on tap off</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837433
+},
+{
+"activities": [
+{
+"filePathIntroRecording": "photo7/activity0/activity0.mp3",
+"folderPath": "photo7/activity0",
+"pk": 607492,
+"recordingDuration": 0,
+"settings": {
+"BGRecording": "",
+"DisableHints": false,
+"ShapePuzzleTheme": 0,
+"advance": true,
+"linkToPage": 9223372036854776000,
+"showShape": false,
+"soundFlatMode": false,
+"soundFunMode": false,
+"soundHideHints": false,
+"soundShowToolTip": true,
+"videoRange": "{0, 0}",
+"videoThumbURL": "",
+"videoTitle": "",
+"videoURL": ""
+},
+"shapes": []
+}
+],
+"engineType": "R",
+"filePath": "photo7/",
+"filePathImage": "photo7/photo7.jpg",
+"filePathImageThumb": "photo7/photoThumb7.jpg",
+"layers": [
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "1_bg.jpg",
+"frame": "{{0, 0}, {2048, 1536}}",
+"height": 1536,
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+0,
+0
+],
+"type": "bg",
+"width": 2048
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "2_txt.png",
+"frame": "{{0, 0}, {768, 74}}",
+"height": 74,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 42.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 42.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Page 7</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+-381.5,
+181
+],
+"type": "txt",
+"width": 768
+},
+{
+"InteractiveLoopType": 1,
+"InteractiveShowType": 0,
+"filename": "3_anim.gif",
+"frame": "{{0, 0}, {971, 844}}",
+"height": 844,
+"interactiveLayerSound": "audio_01B95B20-40F8-45C3-8678-0C14CDDF3D08.aac",
+"interactiveToggleShow": false,
+"transform": [
+0.2573242012250118,
+0,
+0,
+0.2573242012250118,
+286.83333333333144,
+156.1500000000001
+],
+"type": "anim",
+"width": 971
+},
+{
+"InteractiveLoopType": 0,
+"InteractiveShowType": 0,
+"filename": "4_txt.png",
+"frame": "{{0, 0}, {768, 153}}",
+"height": 153,
+"info": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"Content-Style-Type\" content=\"text/css\">\n<title></title>\n<meta name=\"Generator\" content=\"Cocoa HTML Writer\">\n<style type=\"text/css\">\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 20.0px 'Avenir Next'; color: #000000; -webkit-text-stroke: #000000}\nspan.s1 {font-family: 'AvenirNext-Regular'; font-weight: normal; font-style: normal; font-size: 20.00px; font-kerning: none}\n</style>\n</head>\n<body>\n<p class=\"p1\"><span class=\"s1\">Voice.<span class=\"Apple-converted-space\"> </span></span></p>\n<p class=\"p1\"><span class=\"s1\"><span class=\"Apple-converted-space\"> </span>continue after voice plays.</span></p>\n<p class=\"p1\"><span class=\"s1\">No jump to page.</span></p>\n<p class=\"p1\"><span class=\"s1\">Talking Animation with settings</span></p>\n<p class=\"p1\"><span class=\"s1\">Play on tap and loop.</span></p>\n</body>\n</html>\n",
+"interactiveToggleShow": false,
+"transform": [
+1,
+0,
+0,
+1,
+29,
+16.5
+],
+"type": "txt",
+"width": 768
+}
+],
+"pk": 837436
+}
+],
+"version": 0
+}
+}
